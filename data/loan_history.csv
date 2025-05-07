@@ -1,0 +1,3 @@
+account_number,loan_type,loan_amount,status,monthly_emi,start_date
+ACCT227173,Car Loan,250000,Active,1200,2021-06-01
+ACCT227173,Home Loan,50000,Closed,850,2019-01-01
